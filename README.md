@@ -41,5 +41,5 @@ This will display a customers sky bill.
 **And:** 'They want to see all their store purchases'  
 **Then:** 'All the rentals made during the statement period are displayed'  
 **And:** 'The rental name and cost is displayed for each rental'  
-**And:** 'All of the buy and keep purchases made during the statement period are displayed'
+**And:** 'All of the buy and keep purchases made during the statement period are displayed'  
 **And:** 'The name and cost is displayed for each but and keep purchase'    
